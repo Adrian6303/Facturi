@@ -1,0 +1,7 @@
+C:\Users\adria\RiderProjects\Facturi\Facturi\bin\Debug\Facturi.exe
+C:\Users\adria\RiderProjects\Facturi\Facturi\bin\Debug\Facturi.pdb
+C:\Users\adria\RiderProjects\Facturi\Facturi\obj\Debug\Facturi.csproj.AssemblyReference.cache
+C:\Users\adria\RiderProjects\Facturi\Facturi\obj\Debug\Facturi.csproj.SuggestedBindingRedirects.cache
+C:\Users\adria\RiderProjects\Facturi\Facturi\obj\Debug\Facturi.csproj.CoreCompileInputs.cache
+C:\Users\adria\RiderProjects\Facturi\Facturi\obj\Debug\Facturi.exe
+C:\Users\adria\RiderProjects\Facturi\Facturi\obj\Debug\Facturi.pdb

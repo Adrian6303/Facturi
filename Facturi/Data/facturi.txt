@@ -1,0 +1,10 @@
+﻿DOC001, 2024-01-15, Utilities
+DOC002, 2024-02-20, Groceries
+DOC003, 2024-01-25, Fashion
+DOC004, 2024-01-10, Electronics
+DOC005, 2023-06-12, Utilities
+DOC006, 2023-07-18, Fashion
+DOC007, 2023-08-22, Electronics
+DOC008, 2023-09-10, Groceries
+DOC009, 2023-10-15, Utilities
+DOC010, 2023-11-20, Entertainment
